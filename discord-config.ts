@@ -1,0 +1,7 @@
+
+export const DISCORD_CONFIG = {
+  CLIENT_ID: '1398200565808369745',
+  CLIENT_SECRET: 'ZosYG3fsRFRyPJLweeyRuGWOS52_rFDs',
+  BOT_TOKEN: '', // Add your bot token here if needed
+  PERMISSIONS: '1719636185841655'
+};
